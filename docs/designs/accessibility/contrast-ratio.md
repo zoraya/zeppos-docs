@@ -12,7 +12,7 @@ sidebar_label: Contrast ratio
 
     **Incidental:** Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.
 
-- Use the contrast checker to check the text contrast.
+- Use the contrast checker to check the text contrast. xx
 
     Contrast checker: [Color contrast checker & ratio calculator](https://hexcolor.co/color-contrast-checker).
 
